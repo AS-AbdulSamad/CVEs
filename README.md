@@ -1,1 +1,2 @@
 # CVEs
+I have reported multiple security vulnerabilities across different applications and platforms. Detailed write-ups, technical descriptions, proof-of-concept steps, and remediation recommendations for each finding are available in the Issues tab of this repository. This repository serves as a centralized place to document and track the vulnerabilities I have responsibly identified and reported.
